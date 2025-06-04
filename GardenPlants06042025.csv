@@ -1,0 +1,18 @@
+"plant_id","name","variety","location","light","water","size","bloom_time","notes","care_instructions","care_season","height_min_cm","height_max_cm","size_category"
+1,"Black Scallop Bugleweed","Ajuga reptans 'Black Scallop'","North Garden","Partial Shade","Moderate","Height: 4-6"",Spring"," Summer""","Deer-resistant, attracts butterflies","Cut back to the ground in early spring.","Spring",10,15,"Small"
+2,"Coral Bells","Heuchera 'Peach Smoothie'","North Garden","Partial Shade","Moderate","Height: ~12-18"",Spring,Bright foliage"," attracts hummingbirds""","Trim back in early spring","Spring","30",45,NULL,NULL
+3,"Helleborus","Ivory Prince (Lenten Rose)","North Garden","Partial Shade","Moderate","12-18 tall""","Winter, Spring","Evergreen foliage, deer and rabbit resistant","Trim back dead leaves in late winter or early spring.","Winter",30,45,"Medium"
+4,"Coral Bells","Ruby Bells","North Garden","Partial Shade","Moderate","12-24 tall""","Spring, Summer","Attracts hummingbirds, red flowers","Remove spent flower spikes. Cut back in fall.","Fall",30,60,"Medium"
+5,"Sweet Flag","Acorus (unspecified)","North Garden","Partial Shade","Moist to wet soil","12-18"",None,Grass-like"," fragrant foliage""","Remove old foliage in spring. Keep moist.","Spring","30",45,NULL,NULL
+6,"Beardtongue","Onyx and Pearls","North Garden","Full Sun","Moderate","24-36 tall""","Summer","Dark foliage with pale flowers","Cut back after flowering. Divide in spring or fall.","Summer",60,90,"Large"
+7,"Cardinal Flower","Vulcan Red","North Garden","Partial Shade","Moist to wet soil","24-36 tall""","Summer, Fall","Bright red flowers, attracts hummingbirds","Remove faded blooms. Trim dead foliage in spring.","Spring",60,90,"Large"
+8,"Hardy Begonia","Begonia grandis (unspecified)","North Garden","Partial Shade","Moist","18-24"",Summer"," Fall""","Tuberous, may self-seed","Remove dead leaves. Dig tubers after frost.","Fall",45,60,"Medium"
+9,"Ostrich Fern","Matteuccia struthiopteris","North Garden","Partial Shade","Moist","3-5 ft","None","Spreads by rhizomes","Cut fronds to ground in late winter. Water in dry spells.","Winter",90,150,"X-Large"
+10,"Goat's Beard","Aruncus aethusifolius","North Garden","Full Sun","Moist","18 tall""","Spring, Summer","Feathery plumes, deer-resistant","Deadhead after bloom. Prune in spring.","Spring",45,60,"Medium"
+11,"Astilbe","Fanal","North Garden","Partial Shade","Moist","18-24"",Summer,Vibrant red flowers""","Cut to the ground after frost. Divide in spring.","Fall","45","60",NULL,NULL,NULL
+12,"Bleeding Heart","Dicentra spectabilis","North Garden","Partial Shade","Moist","24-36"",Spring"," Summer""","Heart-shaped flowers, goes dormant in heat","Cut to base in late fall.","Fall",60,90,"Large"
+13,"Iris","Bearded Iris","North Garden","Partial Shade","Moderate","2-3 ft tall","Spring, Summer","Fragrant rhizomatous perennial","Trim to 6 in fall. Divide rhizomes.""","Fall",60,90,"Large"
+14,"Caladium","Fancy-leaf (red/green)","North Garden","Partial Shade","Moist","12-24"",None,Not winter-hardy""","Remove dead leaves. Dig tubers post-frost.","Fall","30","60",NULL,NULL,NULL
+15,"Hydrangea","Tuff Stuff Ah-Ha","North Garden","Partial Shade","Moderate","2-3 ft","Summer","Compact mountain hydrangea","Prune after bloom. Mulch in fall.","Fall",60,90,"Large"
+16,"Hydrangea","Fire Light Tidbit","North Garden","Partial Shade","Moderate","2-3 ft","Summer, Fall","Panicle hydrangea with fall color","Prune in early spring. Water well.","Spring",60,90,"Large"
+17,"Coral Bells","Northern Exposure Amber","North Garden","Partial Shade","Moderate","14-16"",Spring,Vibrant foliage"," cold hardy""","Divide in spring. Trim back in fall.","Fall","30",45,NULL,NULL
